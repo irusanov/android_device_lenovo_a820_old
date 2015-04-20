@@ -1,0 +1,1 @@
+# android_device_lenovo_a820
