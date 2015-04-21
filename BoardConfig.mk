@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-DEVICE_FOLDER := device/wiko/stairway
+DEVICE_FOLDER := device/lenovo/a820
 
--include vendor/wiko/stairway/BoardConfigVendor.mk
+-include vendor/lenovo/a820/BoardConfigVendor.mk
 
 # board
 TARGET_BOARD_PLATFORM := mt6589
